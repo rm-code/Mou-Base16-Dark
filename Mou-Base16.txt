@@ -45,10 +45,10 @@ HRULE
 foreground: 8fa1b3
 
 LIST_BULLET
-foreground: ffff00
+foreground: 96b5b4
 
 LIST_ENUMERATOR
-foreground: ffff00
+foreground: 96b5b4
 
 LINK
 foreground: 59acf3
