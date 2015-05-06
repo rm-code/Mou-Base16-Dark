@@ -265,8 +265,8 @@ code, tt {
   margin: 0 2px;
   padding: 0 5px;
   white-space: nowrap;
-  border: 1px solid #eaeaea;
-  background-color: #282a36;
+  border: 1px solid #4f5b66;
+  background-color: #343d46;
   border-radius: 3px; }
 
 pre code {
@@ -277,8 +277,8 @@ pre code {
   background: transparent; }
 
 .highlight pre {
-  background-color: #f8f8f8;
-  border: 1px solid #cccccc;
+  background-color: #343d46;
+  border: 1px solid #4f5b66;
   font-size: 13px;
   line-height: 19px;
   overflow: auto;
@@ -286,8 +286,8 @@ pre code {
   border-radius: 3px; }
 
 pre {
-  background-color: #282a36;
-  border: 1px solid #cccccc;
+  background-color: #343d46;
+  border: 1px solid #4f5b66;
   font-size: 13px;
   line-height: 19px;
   overflow: auto;
