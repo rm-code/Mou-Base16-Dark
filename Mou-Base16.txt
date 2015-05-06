@@ -60,22 +60,22 @@ AUTO_LINK_EMAIL
 foreground: a3be8c
 
 REFERENCE
-foreground: 618890
+foreground: b48ead
 
 IMAGE
-foreground: 85d065
+foreground: 65737e
 
 CODE
 foreground: 65737e
 
 VERBATIM
-foreground: cf009a
+foreground: b48ead
 
 HTML_ENTITY
-foreground: 6c71c4
+foreground: b48ead
 
 COMMENT
-foreground: 93a1a1
+foreground: 4f5b66
 
 BLOCKQUOTE
-foreground: ff0000
+foreground: 8fa1b3
