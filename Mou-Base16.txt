@@ -51,13 +51,13 @@ LIST_ENUMERATOR
 foreground: 96b5b4
 
 LINK
-foreground: 59acf3
+foreground: a3be8c
 
 AUTO_LINK_URL
-foreground: 59acf3
+foreground: a3be8c
 
 AUTO_LINK_EMAIL
-foreground: 59acf3
+foreground: a3be8c
 
 REFERENCE
 foreground: 618890
