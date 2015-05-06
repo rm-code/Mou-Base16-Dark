@@ -34,15 +34,15 @@ foreground: bf616a
 font-size: 14px
 
 EMPH
-foreground: db8d50
+foreground: 8fa1b3
 font-style: italic
 
 STRONG
-foreground: 00b2ce
+foreground: 8fa1b3
 font-style: bold
 
 HRULE
-foreground: 586e75
+foreground: 8fa1b3
 
 LIST_BULLET
 foreground: ffff00
