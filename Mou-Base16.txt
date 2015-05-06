@@ -8,30 +8,30 @@ foreground: eff1f5
 background: 343d46
 
 H1
-foreground: 8d7cd2
+foreground: d08770
+font-style: bold
+font-size: 28px
+
+H2
+foreground: bf616a
 font-style: bold
 font-size: 24px
 
-H2
-foreground: 8d7cd2
-font-style: bold
-font-size: 20px
-
 H3
-foreground: 8d7cd2
-font-size: 17px
+foreground: bf616a
+font-size: 18px
 
 H4
-foreground: 8d7cd2
-font-size: 15px
+foreground: bf616a
+font-size: 16px
 
 H5
-foreground: 8d7cd2
-font-size: 13px
+foreground: bf616a
+font-size: 14px
 
 H6
-foreground: 8d7cd2
-font-size: 11px
+foreground: bf616a
+font-size: 14px
 
 EMPH
 foreground: db8d50
