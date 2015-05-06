@@ -4,8 +4,8 @@ background: 2b303b
 caret: ebcb8b
 
 editor-selection
-foreground: ffffff
-background: ff4f92
+foreground: eff1f5
+background: 343d46
 
 H1
 foreground: 8d7cd2
